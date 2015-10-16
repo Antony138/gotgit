@@ -4,7 +4,9 @@ title: 关于本书
 ---
 
 ## 关于本书
+Test
 
+修改一部分
 <a name="about"></a>
 
 <img src="html/images/gotgit-cover.jpg" width="200" border='1' alt="Git权威指南封面" style="float:left; margin:1em">
